@@ -16,6 +16,7 @@ html {
     height: auto;
     background-color: #f1debc;
     overflow-x: hidden;
+    overflow-y: scroll;
 }
 
 .header-content-mobile{
